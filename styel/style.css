@@ -1,3 +1,10 @@
 h2{
     color: blue;
+    font-weight: bolder;
+    /* font-style: italic; */
+    font-size: 50px;
+    text-decoration: line-through;
+}
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
